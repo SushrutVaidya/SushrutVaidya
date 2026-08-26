@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F54E00,100:FF9068&height=220&section=header&text=Sushrut%20Vaidya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Platform%20%2F%20SRE%20Engineer%20%C2%B7%20Hyderabad%2C%20India&descAlignY=56&descSize=18" width="100%" />
 
 <a href="https://sushrutvaidya.in">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=F54E00&center=true&vCenter=true&width=560&lines=I+keep+Apache+Airflow+fleets+healthy;Java+%C2%B7+Spring+Boot+%C2%B7+Kubernetes;OSS+builder+%C2%B7+patent+holder;Turning+2am+incidents+into+tooling" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=F54E00&center=true&vCenter=true&width=560&lines=I+keep+Apache+Airflow+fleets+healthy;Java+%C2%B7+Spring+Boot+%C2%B7+Kubernetes;Patent+holder+%C2%B7+Govt.+of+India;Turning+2am+incidents+into+tooling" alt="typing" />
 </a>
 
 <p>
