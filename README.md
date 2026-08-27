@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About
 
-Platform engineer at **Apple Ad Platforms**, keeping the Apache Airflow fleet a lot of pipelines depend on healthy across **Kubernetes (EKS)** and on-prem. I like the unglamorous parts of the job: turning a 2 a.m. incident into permanent tooling, and writing code that's honest about what it does *and* what it doesn't.
+Platform engineer at **Apple Ad Platforms (via Quest Global)**, keeping the Apache Airflow fleet a lot of pipelines depend on healthy across **Kubernetes (EKS)** and on-prem. I like the unglamorous parts of the job: turning a 2 a.m. incident into permanent tooling, and writing code that's honest about what it does *and* what it doesn't.
 
 Off the clock I build small, sharp tools and the occasional running system disguised as a portfolio.
 
